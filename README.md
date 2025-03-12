@@ -1,1 +1,1 @@
-This is not the final code of us in the competition. To be updated. 
+This is not our final competition code. An update is coming soon.
