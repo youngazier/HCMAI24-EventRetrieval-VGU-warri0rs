@@ -1,0 +1,13 @@
+# Ignore dataset directory
+dataset/
+
+# Ignore specific files if needed
+*.bin
+*.npy
+*.jpg
+*.png
+*.mp4
+*.json
+dict/  # If you don’t want to push dictionary files
+dataset/
+dataset/
